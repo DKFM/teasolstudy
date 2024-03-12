@@ -1,0 +1,28 @@
+{
+  "name": "teasolstudy",
+  "version": "1.0.1",
+  "description": "ESC/POS Printer driver for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DKFM/teasolstudy.git"
+  },
+  "keywords": [
+    "escpos",
+    "node-tea"
+  ],
+  "author": "dkfm",
+  "license": "MIT",
+  "dependencies": {
+    "bufferhelper": "^0.2.1",
+    "web3": "^0.4.24",
+	"teaforstudy":"1.0.1"
+  },
+  "engines": {
+    "node": ">=8.x",
+    "nwjs": ">=0.31.4"
+  }
+}
